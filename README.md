@@ -22,7 +22,7 @@ Soy **Daniel Cortés R**, apasionado por la **ciberseguridad**, el **pentesting*
 ---
 
 ## 📫 Contact
-- **LinkedIn:** *(soon)*  
+- **LinkedIn:** *https://www.linkedin.com/in/daniel-cortes-600581373*
 - **Email:** *danielcortes.sec@gmail.com*
 
 ---
